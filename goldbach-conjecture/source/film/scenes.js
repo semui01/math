@@ -60,13 +60,9 @@ function portrait(cx, cy, w, h, a, col, name, sub, t, small) {
   ctx.shadowColor = col; ctx.shadowBlur = 40; const g = ctx.createLinearGradient(0, y, 0, y + h); g.addColorStop(0, '#12294a'); g.addColorStop(1, '#070f1e');
   ctx.fillStyle = g; rrect(x, y, w, h, 18); ctx.fill(); ctx.shadowBlur = 0;
   ctx.save(); rrect(x, y, w, h, 18); ctx.clip();
-  const hl = ctx.createRadialGradient(cx - w * .2, y + h * .2, 10, cx, y + h * .4, w * .9); hl.addColorStop(0, 'rgba(120,190,255,.28)'); hl.addColorStop(1, 'rgba(0,0,0,0)'); ctx.fillStyle = hl; ctx.fillRect(x, y, w, h);
-  const sg = ctx.createLinearGradient(0, y + h * .2, 0, y + h); sg.addColorStop(0, '#3a6490'); sg.addColorStop(1, '#16304e'); ctx.fillStyle = sg;
-  ctx.beginPath(); ctx.ellipse(cx, y + h * 1.02, w * .43, h * .36, 0, 0, TAU); ctx.fill();
-  ctx.beginPath(); ctx.ellipse(cx, y + h * .4, w * .185, h * .2, 0, 0, TAU); ctx.fill();
-  ctx.fillRect(cx - w * .07, y + h * .55, w * .14, h * .14);
-  ctx.strokeStyle = col; ctx.globalAlpha = a * .5; ctx.lineWidth = 2.5; ctx.beginPath(); ctx.ellipse(cx, y + h * .4, w * .185, h * .2, 0, -2.2, -.5); ctx.stroke();
-  ctx.globalAlpha = a * .06; ctx.fillStyle = '#fff'; for (let yy = y + ((t * 30) % 8); yy < y + h; yy += 8) ctx.fillRect(x, yy, w, 2);
+  const im = document.getElementById(name.startsWith('CHEN') ? 'p1' : 'p2'); ctx.drawImage(im, x, y, w, h);
+  const sg = ctx.createLinearGradient(0, y + h * .6, 0, y + h); sg.addColorStop(0, 'rgba(4,10,22,0)'); sg.addColorStop(1, 'rgba(4,10,22,.55)'); ctx.fillStyle = sg; ctx.fillRect(x, y, w, h);
+  ctx.globalAlpha = a * .035; ctx.fillStyle = '#fff'; for (let yy = y + ((t * 30) % 8); yy < y + h; yy += 8) ctx.fillRect(x, yy, w, 2);
   ctx.restore(); ctx.globalAlpha = a; ctx.strokeStyle = col; ctx.lineWidth = 2.5; rrect(x, y, w, h, 18); ctx.stroke();
   txt(name, cx, y + h + (small ? 44 : 56), font(800, small ? 28 : 36), '#fff', 'center', 2);
   txt(sub, cx, y + h + (small ? 72 : 90), font(600, small ? 14 : 17, F.m), col, 'center', 3);
