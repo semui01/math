@@ -1,0 +1,38 @@
+Can every *even number* greater than two
+be written as the sum of *two prime numbers*?
+For example, *10 = 3 + 7*. || For example, ten is three plus seven.
+And *28 = 11 + 17*. || And twenty-eight is eleven plus seventeen.
+This simple question is one of mathematics' most famous *unsolved* problems.
+It is called the *Goldbach Conjecture*. || It is called the Goldbach Conjecture.
+
+In *1973*, Chinese mathematician *Chen Jingrun* made a major breakthrough. || In nineteen seventy-three, Chinese mathematician Chen Jing-roon made a major breakthrough.
+He proved that every sufficiently large even number
+can be expressed as the sum of *a prime number*
+and another number with *at most two prime factors*.
+For example: *100 = 23 + 77*. || For example: one hundred equals twenty-three plus seventy-seven.
+And *77 = 7 × 11*. || And seventy-seven equals seven times eleven.
+Chen did not solve Goldbach's original problem.
+But he came *remarkably close*.
+His achievement became known as *Chen's Theorem*.
+
+Then came another breakthrough.
+In *2013*, mathematician *Harald Helfgott* || In twenty thirteen, mathematician Harald Helfgott
+proved the *Weak Goldbach Conjecture*.
+This states that every *odd integer* greater than five
+can be expressed as the sum of *three prime numbers*.
+For example: *17 = 5 + 5 + 7*. || For example: seventeen equals five plus five plus seven.
+His proof combined advanced mathematical analysis
+with extensive *computer calculations*.
+This was a *complete solution* to the weak version of Goldbach's problem.
+
+So, where do we stand today?
+Chen Jingrun proved a powerful result *close* to the original conjecture. || Chen Jing-roon proved a powerful result close to the original conjecture.
+Harald Helfgott *solved* the weak version.
+But the original Goldbach Conjecture remains *unproven*.
+Every even number greater than two…
+Can it *always* be written as the sum of *two primes*? {+2}
+More than *280 years* after Goldbach proposed this idea, || More than two hundred and eighty years after Goldbach proposed this idea,
+the mathematical world is still *searching* for the answer.
+*Two* mathematicians. *Two* remarkable breakthroughs.
+*One* enduring mystery.
+The *Goldbach Conjecture*.
