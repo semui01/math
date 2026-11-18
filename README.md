@@ -15,5 +15,6 @@ A 1:14 narrated motion-graphics explainer: Voyager 1 reaching one light-day, the
 
 - `north-star/video/north_star_16x9_VO_chat.mp4` — 1080p, with voice-over
 - `north-star/video/north_star_16x9_noVO_chat.mp4` — 1080p, music and effects only
-- `north-star/video/*_hq.mp4` — high-bitrate versions of both (about 86 MB each)
+- `north-star/video/north_star_9x16_VO_chat.mp4`, `north_star_9x16_noVO_chat.mp4` — vertical 1080×1920 for Reels/Shorts/TikTok
+- `north-star/video/*_hq.mp4` — high-bitrate versions of all four (about 86 MB each)
 - `north-star/source/` — narration script, timeline, canvas animation (`film/index.html?play` plays it in a browser, add `&v` for 9:16) and the score script
