@@ -1,0 +1,182 @@
+{
+ "duration": 74.0,
+ "speed": 1.1463480715113132,
+ "voice": "am_michael",
+ "lines": [
+  {
+   "display": "It took humanity's most *distant* spacecraft",
+   "spoken": "It took humanity's most distant spacecraft",
+   "chapterBreak": false,
+   "s": 0.7,
+   "e": 3.0
+  },
+  {
+   "display": "nearly *fifty years* to travel just *one light-day*.",
+   "spoken": "nearly fifty years to travel just one light-day.",
+   "chapterBreak": false,
+   "s": 3.394,
+   "e": 6.112
+  },
+  {
+   "display": "Now, look up at the *North Star*.",
+   "spoken": "Now, look up at the North Star.",
+   "chapterBreak": false,
+   "s": 6.505,
+   "e": 8.1
+  },
+  {
+   "display": "Launched in *1977*, *Voyager 1* is now",
+   "spoken": "Launched in nineteen seventy-seven, Voyager One is now",
+   "chapterBreak": true,
+   "s": 8.73,
+   "e": 12.036
+  },
+  {
+   "display": "*25.9 billion km* away.",
+   "spoken": "twenty-five point nine billion kilometers away.",
+   "chapterBreak": false,
+   "s": 12.43,
+   "e": 15.259
+  },
+  {
+   "display": "A single radio message takes *24 hours* to reach it,",
+   "spoken": "A single radio message takes twenty-four hours to reach it,",
+   "chapterBreak": false,
+   "s": 15.652,
+   "e": 19.062
+  },
+  {
+   "display": "and another *24* just to hear back.",
+   "spoken": "and another twenty-four just to hear back.",
+   "chapterBreak": false,
+   "s": 19.456,
+   "e": 21.526
+  },
+  {
+   "display": "*Polaris* is about *447 light-years* away.",
+   "spoken": "Polaris is about four hundred forty-seven light-years away.",
+   "chapterBreak": true,
+   "s": 22.156,
+   "e": 25.8
+  },
+  {
+   "display": "Even at Voyager's speed, that's an *eight-million-year* trip.",
+   "spoken": "Even at Voyager's speed, that's an eight-million-year trip.",
+   "chapterBreak": false,
+   "s": 26.194,
+   "e": 29.401
+  },
+  {
+   "display": "The light hitting your eyes tonight",
+   "spoken": "The light hitting your eyes tonight",
+   "chapterBreak": false,
+   "s": 29.795,
+   "e": 31.393
+  },
+  {
+   "display": "left that star in the *1570s*.",
+   "spoken": "left that star in the fifteen-seventies.",
+   "chapterBreak": false,
+   "s": 31.787,
+   "e": 33.843
+  },
+  {
+   "display": "So how do we measure a star we can never reach?",
+   "spoken": "So how do we measure a star we can never reach?",
+   "chapterBreak": true,
+   "s": 34.474,
+   "e": 37.095
+  },
+  {
+   "display": "First, *geometry*.",
+   "spoken": "First, geometry.",
+   "chapterBreak": false,
+   "s": 37.488,
+   "e": 38.575
+  },
+  {
+   "display": "As Earth circles the Sun, nearby stars *shift* slightly",
+   "spoken": "As Earth circles the Sun, nearby stars shift slightly",
+   "chapterBreak": false,
+   "s": 38.969,
+   "e": 42.231
+  },
+  {
+   "display": "against the distant background every *six months*.",
+   "spoken": "against the distant background every six months.",
+   "chapterBreak": false,
+   "s": 42.625,
+   "e": 45.101
+  },
+  {
+   "display": "The triangle is so thin, it's like spotting the width of *a coin*",
+   "spoken": "The triangle is so thin, it's like spotting the width of a coin",
+   "chapterBreak": false,
+   "s": 45.495,
+   "e": 49.051
+  },
+  {
+   "display": "*700 km* away.",
+   "spoken": "seven hundred kilometers away.",
+   "chapterBreak": false,
+   "s": 49.445,
+   "e": 51.28
+  },
+  {
+   "display": "Second, *cosmic lightbulbs*.",
+   "spoken": "Second, cosmic lightbulbs.",
+   "chapterBreak": true,
+   "s": 51.911,
+   "e": 53.575
+  },
+  {
+   "display": "In *1912*, *Henrietta Swan Leavitt* discovered",
+   "spoken": "In nineteen-twelve, Henrietta Swan Leavitt discovered",
+   "chapterBreak": false,
+   "s": 53.969,
+   "e": 56.933
+  },
+  {
+   "display": "that pulsing stars like Polaris *beat* at a pace",
+   "spoken": "that pulsing stars like Polaris beat at a pace",
+   "chapterBreak": false,
+   "s": 57.327,
+   "e": 60.09
+  },
+  {
+   "display": "tied directly to their *true brightness*.",
+   "spoken": "tied directly to their true brightness.",
+   "chapterBreak": false,
+   "s": 60.484,
+   "e": 62.566
+  },
+  {
+   "display": "Compare how bright Polaris *truly* is",
+   "spoken": "Compare how bright Polaris truly is",
+   "chapterBreak": true,
+   "s": 63.196,
+   "e": 65.448
+  },
+  {
+   "display": "to how *dim* it looks from Earth,",
+   "spoken": "to how dim it looks from Earth,",
+   "chapterBreak": false,
+   "s": 65.842,
+   "e": 67.339
+  },
+  {
+   "display": "and the math reveals its *distance*.",
+   "spoken": "and the math reveals its distance.",
+   "chapterBreak": false,
+   "s": 67.733,
+   "e": 69.519
+  },
+  {
+   "display": "No spaceship required.",
+   "spoken": "No spaceship required.",
+   "chapterBreak": false,
+   "s": 69.913,
+   "e": 71.4
+  }
+ ]
+}
